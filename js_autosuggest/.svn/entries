@@ -1,0 +1,79 @@
+8
+
+dir
+1434
+svn://www.heliozilla.com/1mt/js_autosuggest
+svn://www.heliozilla.com
+
+
+
+2011-10-21T16:34:33.089492Z
+1428
+mike
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+696e2e3f-7815-f240-84e4-747e616f9759
+
+lib
+dir
+
+jquery.autocomplete.css
+file
+
+
+
+
+2011-10-21T16:49:37.241690Z
+7487c250c08e63e5fcaf7b1544248ac7
+2011-10-21T16:34:33.089492Z
+1428
+mike
+
+jquery.autocomplete.js
+file
+
+
+
+
+2011-10-21T16:49:37.241690Z
+e6d2ad4cbdd675822d0aec4ab557fca1
+2011-10-21T16:34:33.089492Z
+1428
+mike
+
+jquery.js
+file
+
+
+
+
+2011-10-21T16:49:37.257315Z
+0e3840391bce728f67c05796e09243b6
+2011-10-21T16:34:33.089492Z
+1428
+mike
+
+1mt_locations_nu_01.xml
+file
+
+
+
+
+2011-10-21T16:49:37.257315Z
+242fbb25ed81696b38be1425b0d0e1da
+2011-10-21T16:34:33.089492Z
+1428
+mike
+
